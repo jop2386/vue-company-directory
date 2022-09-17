@@ -1,14 +1,14 @@
 <script setup>
   import MainSearch from './MainSearch.vue'
   import MainCards from './MainCards.vue'
+  import MainPaginagion from './MainPagination.vue'
 </script>
 
 <template>
   <div class="wrapper">
     <MainSearch />
-    <div>
-      <MainCards />
-    </div>
+    <MainCards />
+    <MainPaginagion />
   </div>
 </template>
 
