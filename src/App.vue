@@ -5,5 +5,5 @@
 
 <template>
   <NavBar />
-  <Main />
+  <MainPage />
 </template>
