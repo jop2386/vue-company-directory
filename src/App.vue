@@ -8,6 +8,5 @@ import MainCardsSingle from './components/MainCardsSingle.vue';
 <template>
   <NavMenu />
   <Main />
-  <MainCardsSingle />
   <RouterView />
 </template>
